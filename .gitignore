@@ -22,3 +22,6 @@
 # Carpetas de sistema o de editor
 .vscode/
 .DS_Store
+
+# Permitir PDFs solo en la carpeta de vista previa
+!vista previa/*.pdf
