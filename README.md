@@ -45,7 +45,7 @@ A continuación, se detallan las plantillas incluidas actualmente en el reposito
 | `Presentaciones Beamer` | Diapositivas académicas con los colores de la universidad. | ❌ |
 | `Propuesta Tesis` | Formato inicial para la inscripción de temas de proyecto de título. | ❌ |
 | `Proyecto de Titulacion` | Formato oficial para tesis y memorias de título. | ✅ |
-| `Tareas` | Formato básico para tareas de asiganturas de la carrera. | ❌ |
+| `Tareas` | Formato básico para tareas de asiganturas de la carrera. | ✅ |
 
 
 ---
