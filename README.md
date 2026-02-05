@@ -34,13 +34,19 @@ A continuación, se detallan las plantillas incluidas actualmente en el reposito
 
 | Carpeta | Descripción | PDF de Muestra |
 | :--- | :--- | :---: |
+| `Articulo 2 columnas` | Formato tipo "paper" para publicaciones o congresos. | ❌ |
+| `Carta / Memorandum` | Plantillas para comunicación administrativa formal. | ❌ |
+| `Curriculum` | Plantilla profesional para CV de estudiantes y egresados. | ❌ |
+| `Ejemplo_Informe_BD` | Estructura para informe del proyecto de bases de datos. | ❌ |
+| `Evaluaciones` | Formato para evaluaciones oficiales, ayudantatias o tutorias. | ❌ |
+| `Informes` | Estructura básica para informes de asignaturas disciplinares. | ❌ |
+| `Poster` | Plantilla para el poster final del Proyecto Integrador de 1er Semestre. | ❌ |
+| `Prácticas` | Plantilla para el informe de práctica intermedia y profesional. | ❌ |
+| `Presentaciones Beamer` | Diapositivas académicas con los colores de la universidad. | ❌ |
+| `Propuesta Tesis` | Formato inicial para la inscripción de temas de proyecto de título. | ❌ |
 | `Proyecto de Titulacion` | Formato oficial para tesis y memorias de título. | ✅ |
-| `Ejemplo_Informe_BD` | Estructura para informe del proyecto de bases de datos. | ✅ |
-| `Articulo 2 columnas` | Formato tipo "paper" para publicaciones o congresos. | ✅ |
-| `Curriculum` | Plantilla profesional para CV de estudiantes y egresados. | ✅ |
-| `Presentaciones Beamer` | Diapositivas académicas con los colores de la universidad. | ✅ |
-| `Propuesta Tesis` | Formato inicial para la inscripción de temas de proyecto de título. | ✅ |
-| `Memorandum / Carta` | Plantillas para comunicación administrativa formal. | ✅ |
+| `Tareas` | Formato básico para tareas de asiganturas de la carrera. | ❌ |
+
 
 ---
 
