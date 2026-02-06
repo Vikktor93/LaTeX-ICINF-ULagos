@@ -43,7 +43,7 @@ A continuación, se detallan las plantillas incluidas actualmente en el reposito
 | `Poster` | Plantilla para el poster final del Proyecto Integrador de 1er Semestre. | ❌ |
 | `Prácticas` | Plantilla para el informe de práctica intermedia y profesional. | ❌ |
 | `Presentaciones Beamer` | Diapositivas académicas con los colores de la universidad. | ❌ |
-| `Propuesta Tesis` | Formato inicial para la inscripción de temas de proyecto de título. | ❌ |
+| `Propuesta Tesis` | Formato inicial para la inscripción de temas de proyecto de título. | [✅](Vista%20Previa/Propuesta%20Tesis.pdf) |
 | `Proyecto de Titulacion` | Formato oficial para tesis y memorias de título. | [✅](Vista%20Previa/Proyecto%20de%20Titulacion.pdf)|
 | `Tareas` | Formato básico para tareas de asiganturas de la carrera. | [✅](Vista%20Previa/Tareas.pdf) |
 
