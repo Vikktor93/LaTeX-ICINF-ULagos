@@ -41,7 +41,7 @@ A continuación, se detallan las plantillas incluidas actualmente en el reposito
 | `Evaluaciones` | Formato para evaluaciones oficiales, ayudantatias o tutorias. | ❌ |
 | `Informes` | Estructura básica para informes de asignaturas disciplinares. | ❌ |
 | `Poster` | Plantilla para el poster final del Proyecto Integrador de 1er Semestre. | ❌ |
-| `Prácticas` | Plantilla para el informe de práctica intermedia y profesional. | [✅](Vista%20Previa/Informe%20de%20Pratica.pdf) |
+| `Prácticas` | Plantilla para el informe de práctica intermedia y profesional. | [✅](Vista%20Previa/Informe%20de%20Practica.pdf) |
 | `Presentaciones Beamer` | Diapositivas académicas con los colores de la universidad. | [✅](Vista%20Previa/Beamer.pdf)  |
 | `Propuesta Tesis` | Formato inicial para la inscripción de temas de proyecto de título. | [✅](Vista%20Previa/Propuesta%20Tesis.pdf) |
 | `Proyecto de Titulacion` | Formato oficial para tesis y memorias de título. | [✅](Vista%20Previa/Proyecto%20de%20Titulacion.pdf)|
