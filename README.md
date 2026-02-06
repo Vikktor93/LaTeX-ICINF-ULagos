@@ -46,6 +46,8 @@ A continuación, se detallan las plantillas incluidas actualmente en el reposito
 | `Propuesta Tesis` | Formato inicial para la inscripción de temas de proyecto de título. | [✅](Vista%20Previa/Propuesta%20Tesis.pdf) |
 | `Proyecto de Titulacion` | Formato oficial para tesis y memorias de título. | [✅](Vista%20Previa/Proyecto%20de%20Titulacion.pdf)|
 | `Tareas` | Formato básico para tareas de asiganturas de la carrera. | [✅](Vista%20Previa/Tareas.pdf) |
+| `Vista Previa` | Todos los PDF de los documentos generados en este repositorio. | ✅ |
+
 
 
 ---
