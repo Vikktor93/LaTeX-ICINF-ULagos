@@ -1,5 +1,7 @@
 # Archivos auxiliares de LaTeX 
 *.aux
+*.cls
+*.sty
 *.log
 *.out
 *.toc
