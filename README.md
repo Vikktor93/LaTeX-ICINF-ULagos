@@ -40,7 +40,7 @@ A continuación, se detallan las plantillas incluidas actualmente en el reposito
 | `Ejemplo_Informe_BD` | Estructura para informe del proyecto de bases de datos. | ❌ |
 | `Evaluaciones` | Formato para evaluaciones oficiales, ayudantatias o tutorias. | ❌ |
 | `Informes` | Estructura básica para informes de asignaturas disciplinares. | ❌ |
-| `Poster` | Plantilla para el poster final del Proyecto Integrador de 1er Semestre. | ❌ |
+| `Poster` | Plantilla para el poster final del Proyecto Integrador de 1er Semestre. | [✅](Vista%20Previa/Poster.pdf)  |
 | `Prácticas` | Plantilla para el informe de práctica intermedia y profesional. | [✅](Vista%20Previa/Informe%20de%20Practica.pdf) |
 | `Presentaciones Beamer` | Diapositivas académicas con los colores de la universidad. | [✅](Vista%20Previa/Beamer.pdf)  |
 | `Propuesta Tesis` | Formato inicial para la inscripción de temas de proyecto de título. | [✅](Vista%20Previa/Propuesta%20Tesis.pdf) |
