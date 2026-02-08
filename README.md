@@ -39,7 +39,7 @@ A continuación, se detallan las plantillas incluidas actualmente en el reposito
 | `Curriculum` | Plantilla profesional para CV de estudiantes y egresados. | ❌ |
 | `Ejemplo_Informe_BD` | Estructura para informe del proyecto de bases de datos. | ❌ |
 | `Evaluaciones` | Formato para evaluaciones oficiales, ayudantatias o tutorias. | ❌ |
-| `Informes` | Estructura básica para informes de asignaturas disciplinares. | ❌ |
+| `Informes` | Estructura básica para informes de asignaturas disciplinares. | [✅](Vista%20Previa/Informe.pdf) |
 | `Memorandum` | Plantilla para comunicación administrativa formal. | [✅](Vista%20Previa/Memorandum.pdf) |
 | `Poster` | Plantilla para el poster final del Proyecto Integrador de 1er Semestre. | [✅](Vista%20Previa/Poster.pdf)  |
 | `Prácticas` | Plantilla para el informe de práctica intermedia y profesional. | [✅](Vista%20Previa/Informe%20de%20Practica.pdf) |
