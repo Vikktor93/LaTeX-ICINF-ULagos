@@ -38,7 +38,7 @@ A continuación, se detallan las plantillas incluidas actualmente en el reposito
 | `Carta` | Plantilla para comunicación administrativa formal. | ❌ |
 | `Curriculum` | Plantilla profesional para CV de estudiantes y egresados. | ❌ |
 | `Ejemplo_Informe_BD` | Estructura para informe del proyecto de bases de datos. | ❌ |
-| `Evaluaciones` | Formato para evaluaciones oficiales, ayudantatias o tutorias. | ❌ |
+| `Evaluaciones` | Formato para evaluaciones oficiales, ayudantatias o tutorias. | [✅](Vista%20Previa/Evaluacion.pdf) |
 | `Informes` | Estructura básica para informes de asignaturas disciplinares. | [✅](Vista%20Previa/Informe.pdf) |
 | `Memorandum` | Plantilla para comunicación administrativa formal. | [✅](Vista%20Previa/Memorandum.pdf) |
 | `Poster` | Plantilla para el poster final del Proyecto Integrador de 1er Semestre. | [✅](Vista%20Previa/Poster.pdf)  |
