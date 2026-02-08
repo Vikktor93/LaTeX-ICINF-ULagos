@@ -35,11 +35,12 @@ A continuación, se detallan las plantillas incluidas actualmente en el reposito
 | Carpeta | Descripción | PDF de Muestra |
 | :--- | :--- | :---: |
 | `Articulo 2 columnas` | Formato tipo "paper" para publicaciones o congresos. | ❌ |
-| `Carta / Memorandum` | Plantillas para comunicación administrativa formal. | ❌ |
+| `Carta` | Plantilla para comunicación administrativa formal. | ❌ |
 | `Curriculum` | Plantilla profesional para CV de estudiantes y egresados. | ❌ |
 | `Ejemplo_Informe_BD` | Estructura para informe del proyecto de bases de datos. | ❌ |
 | `Evaluaciones` | Formato para evaluaciones oficiales, ayudantatias o tutorias. | ❌ |
 | `Informes` | Estructura básica para informes de asignaturas disciplinares. | ❌ |
+| `Memorandum` | Plantilla para comunicación administrativa formal. | [✅](Vista%20Previa/Memorandum.pdf) |
 | `Poster` | Plantilla para el poster final del Proyecto Integrador de 1er Semestre. | [✅](Vista%20Previa/Poster.pdf)  |
 | `Prácticas` | Plantilla para el informe de práctica intermedia y profesional. | [✅](Vista%20Previa/Informe%20de%20Practica.pdf) |
 | `Presentaciones Beamer` | Diapositivas académicas con los colores de la universidad. | [✅](Vista%20Previa/Beamer.pdf)  |
