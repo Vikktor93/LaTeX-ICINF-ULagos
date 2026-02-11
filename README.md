@@ -35,7 +35,7 @@ A continuación, se detallan las plantillas incluidas actualmente en el reposito
 | Carpeta | Descripción | PDF de Muestra |
 | :--- | :--- | :---: |
 | `Articulo 2 columnas` | Formato tipo "paper" para publicaciones o congresos. | ❌ |
-| `Carta` | Plantilla para comunicación administrativa formal. | ❌ |
+| `Carta` | Plantilla para comunicación administrativa formal. |  [✅](Vista%20Previa/Carta.pdf) |
 | `Curriculum` | Plantilla profesional para CV de estudiantes y egresados. | [✅](Vista%20Previa/Curriculum.pdf)  |
 | `Ejemplo_Informe_BD` | Estructura para informe del proyecto de bases de datos. |  [✅](Vista%20Previa/Informe%20BD.pdf) |
 | `Evaluaciones` | Formato para evaluaciones oficiales, ayudantatias o tutorias. | [✅](Vista%20Previa/Evaluacion.pdf) |
