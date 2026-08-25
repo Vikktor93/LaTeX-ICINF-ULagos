@@ -28,6 +28,20 @@ Para una experiencia óptima, abre la carpeta raíz de este repositorio en VS Co
 
 ---
 
+## 🧩 Extensiones Recomendadas para VS Code
+
+Para transformar VS Code en un entorno de redacción académica completo y cómodo, instala las siguientes extensiones desde el panel de extensiones (`Ctrl + Shift + X`):
+
+| Extensión | Identificador | Propósito |
+| :--- | :--- | :--- |
+| **LaTeX Workshop**| `James-Yu.latex-workshop` | Compilación automática, visor PDF integrado, SyncTeX y explorador de estructura. |
+| **LTeX (LanguageTool)** | `valentjn.vscode-ltex` | Corrector gramatical y ortográfico en español compatible con la sintaxis de LaTeX. |
+| **LaTeX Utilities** | `tundrax.latex-utilities` | Conteo de palabras, macros rápidos y edición avanzada de tablas. |
+
+> 💡 **Tip:** En la extensión `LTeX`, puedes definir el idioma de revisión agregando `"ltex.language": "es"` en tu archivo `settings.json` o en la configuración del espacio de trabajo.
+
+---
+
 ## 📂 Plantillas Disponibles
 
 A continuación, se detallan las plantillas incluidas actualmente en el repositorio:
