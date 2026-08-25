@@ -25,5 +25,8 @@
 .vscode/
 .DS_Store
 
+# Archivos y carpetas locales no versionadas
+ANEXOS/
+
 # Permitir PDFs solo en la carpeta de vista previa
 !vista previa/*.pdf
