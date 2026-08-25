@@ -86,4 +86,4 @@ Este repositorio es administrado por el **Profesor Víctor Saldivia Vera**.
 Si eres estudiante y encuentras algún error en las macros o tienes sugerencias para nuevas plantillas, por favor abre un **Issue** en este repositorio o contacta directamente a través de los canales institucionales.
 
 ---
-2026 - Universidad de Los Lagos, Castro, Chile.
+Agosto 2026 - Universidad de Los Lagos, Castro, Chile.
