@@ -34,9 +34,9 @@ Para transformar VS Code en un entorno de redacción académica completo y cómo
 
 | Extensión | Identificador | Propósito |
 | :--- | :--- | :--- |
-| **LaTeX Workshop**| `James-Yu.latex-workshop` | Compilación automática, visor PDF integrado, SyncTeX y explorador de estructura. |
-| **LTeX (LanguageTool)** | `valentjn.vscode-ltex` | Corrector gramatical y ortográfico en español compatible con la sintaxis de LaTeX. |
-| **LaTeX Utilities** | `tundrax.latex-utilities` | Conteo de palabras, macros rápidos y edición avanzada de tablas. |
+| **LaTeX Workshop**| `james-yu.latex-workshop` | Compilación automática, visor PDF integrado, SyncTeX y explorador de estructura. |
+| **LTeX (LanguageTool)** | `ltex-plus.vscode-ltex-plus` | Corrector gramatical y ortográfico en español compatible con la sintaxis de LaTeX. |
+| **LaTeX Utilities** | `tecosaur.latex-utilities` | Conteo de palabras, macros rápidos y edición avanzada de tablas. |
 
 > 💡 **Tip:** En la extensión `LTeX`, puedes definir el idioma de revisión agregando `"ltex.language": "es"` en tu archivo `settings.json` o en la configuración del espacio de trabajo.
 
