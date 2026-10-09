@@ -85,5 +85,9 @@ Este repositorio es administrado por el **Profesor Víctor Saldivia Vera**.
 
 Si eres estudiante y encuentras algún error en las macros o tienes sugerencias para nuevas plantillas, por favor abre un **Issue** en este repositorio o contacta directamente a través de los canales institucionales.
 
+## Créditos
+Este repositorio está basado en [LaTeX-Ulagos](https://github.com/juaramir/LaTeX-Ulagos)
+de [Juan José Ramírez Lama](https://github.com/juaramir/), y ha sido adaptado para Ingeniería Civil en Informática, Sede Chiloé por Víctor Saldivia Vera.
+
 ---
-Agosto 2026 - Universidad de Los Lagos, Castro, Chile.
+Octubre 2026 - Universidad de Los Lagos, Castro, Chile.
