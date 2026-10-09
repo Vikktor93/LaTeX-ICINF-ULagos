@@ -79,6 +79,20 @@ A continuación, se detallan las plantillas incluidas actualmente en el reposito
 
 ---
 
+## ☁️ Opción rápida: usar en Overleaf (sin instalar nada)
+
+[Overleaf](https://www.overleaf.com) es un editor LaTeX en línea y gratuito. Es la forma más simple de comenzar.
+
+1. En este repositorio, presiona **Code → Download ZIP** y descomprime el archivo.
+2. Vuelve a comprimir **solo la carpeta de la plantilla** que necesitas (por ejemplo, `Proyecto de Titulacion`).
+3. En Overleaf, selecciona **New Project → Upload Project** y sube ese `.zip`.
+4. Si Overleaf no detecta el archivo principal, ve a **Menu → Main document** y elige el `.tex` raíz (por ejemplo, `TrabajoTitulacion.tex`).
+5. Verifica en **Menu → Compiler** que esté seleccionado **pdfLaTeX** <!-- ajustar si alguna plantilla usa XeLaTeX/LuaLaTeX -->.
+
+> ⚠️ **Nota:** El plan gratuito de Overleaf tiene un límite de tiempo de compilación. En documentos largos con muchas imágenes (como el proyecto de título), puede que necesites compilar localmente o reducir el tamaño de las imágenes.
+
+---
+
 ## 🤝 Soporte y Contacto
 
 Este repositorio es administrado por el **Profesor Víctor Saldivia Vera**. 
