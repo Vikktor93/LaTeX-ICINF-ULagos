@@ -10,11 +10,17 @@
 \def\autord{Autor}
 \def\correod{correo@alumnos.ulagos.cl}
 \def\asignatura{Asignatura}
-\def\campus{Campus ???}
+\def\campus{Sede Chiloé}
 \def\carrera{Ingeniería Civil en Informática}
 \input{macros}
 
 \lstset{language=Python}
+
+%%%% redefine abstract
+\renewenvironment{abstract}{%
+\chapter*{\abstractname}%
+\addcontentsline{toc}{chapter}{\abstractname}%
+}{}
 
 \begin{document}
 	
